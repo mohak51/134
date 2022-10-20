@@ -1,0 +1,26 @@
+body{
+    font-family: comic sans ms;
+}
+
+#h1{
+    font-size: 300px;
+    background-color: rgba(255, 255, 255, 0.637);
+}
+
+#h2{
+    background-color: rgba(255, 255, 255, 0.637);
+}
+
+#button{
+    background-color: orange;
+}
+
+#status{
+    text-decoration: bold;
+}
+
+canvas{
+    box-shadow: 10px 10px 10px gray;
+    border-radius: 10px;
+    margin-top: 30px;
+}
